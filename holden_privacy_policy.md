@@ -1,4 +1,4 @@
-# Privacy Policy for Holden (Litigation Intelligence GPT)
+# Privacy Policy
 
 **Effective Date:** June 2025  
 **Maintained by:** [Cognitive Ink Press](https://github.com/your-handle)
